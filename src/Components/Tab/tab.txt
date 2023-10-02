@@ -1,0 +1,4 @@
+{/* <li className={` bg-[#cbdffc] btn-radius p-3 hover:transition-colors hover:duration-500 hover:bg-[#7777ff] hover:text-white ${activeTab === 'New York' ? 'bg-blue-600 text-white' : ''}`}><Link>New York</Link></li>
+                    <li className="bg-[#cbdffc] btn-radius p-3 hover:transition-colors hover:duration-500 hover:bg-[#7777ff] hover:text-white"><Link>Mumbai</Link></li>
+                    <li className="bg-[#cbdffc] btn-radius p-3 hover:transition-colors hover:duration-500 hover:bg-[#7777ff] hover:text-white"><Link>Paris</Link></li>
+                    <li className="bg-[#cbdffc] btn-radius p-3 hover:transition-colors hover:duration-500 hover:bg-[#7777ff] hover:text-white"><Link>London</Link></li> */}

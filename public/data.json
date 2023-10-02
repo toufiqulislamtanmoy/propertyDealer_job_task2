@@ -1,0 +1,1030 @@
+[
+    {
+        "id": 1,
+        "hotelName": "Grand Paris Hotel",
+        "hotelImages": [
+            "https://i.ibb.co/djn2Ddf/360-F-29133877-bf-A2n7c-WV53fto2-Bomy-Z6py-Ruj-JTBwjd.jpg",
+            "https://i.ibb.co/zGTvZ46/Park-Hotel-Group-Explore-Grand-Park-City-Hall-Facade.jpg",
+            "https://i.ibb.co/865Yx1k/PSG.webp",
+            "https://i.ibb.co/gz0L4ty/istockphoto-472899538-612x612.jpg",
+            "https://i.ibb.co/0270d6b/cq5dam-web-756-756.jpg"
+        ],
+        "price": 8500,
+        "addresses": [
+            {
+                "addressLine1": "123 Rue de Rivoli",
+                "city": "Paris",
+                "postalCode": "75001",
+                "country": "France"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 2,
+                "bedCount": 2,
+                "bath": 1,
+                "squareFootage": 600
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Rent"
+    },
+    {
+        "id": 2,
+        "hotelName": "London Tower Suites",
+        "hotelImages": [
+            "https://i.ibb.co/LvQ8Pjc/LD.jpg",
+            "https://i.ibb.co/vcD7dB9/LD.png",
+            "https://i.ibb.co/ssH0BHN/LD2.jpg",
+            "https://i.ibb.co/JQVW01n/LD3.jpg",
+            "https://i.ibb.co/x8RnKRc/LD4.jpg"
+            
+        ],
+        "price": 9000,
+        "addresses": [
+            {
+                "addressLine1": "1 Tower Hill",
+                "city": "London",
+                "postalCode": "EC3N 4AB",
+                "country": "UK"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 1,
+                "bedCount": 1,
+                "bath": 1,
+                "squareFootage": 500
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Rent"
+    },
+    {
+        "id": 3,
+        "hotelName": "Mumbai Marina View Hotel",
+        "hotelImages": [
+            "https://i.ibb.co/7GBcvkG/NY3.png",
+            "https://i.ibb.co/ssH0BHN/LD2.jpg"
+        ],
+        "price": 7500,
+        "addresses": [
+            {
+                "addressLine1": "789 Marine Drive",
+                "city": "Mumbai",
+                "postalCode": "400020",
+                "country": "India"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 3,
+                "bedCount": 1,
+                "bath": 1,
+                "squareFootage": 500
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Rent"
+    },
+    {
+        "id": 4,
+        "hotelName": "Eiffel Tower View Hotel",
+        "hotelImages": [
+            "https://i.ibb.co/865Yx1k/PSG.webp",
+            "https://i.ibb.co/0270d6b/cq5dam-web-756-756.jpg"
+        ],
+        "price": 9500,
+        "addresses": [
+            {
+                "addressLine1": "15 Avenue de Suffren",
+                "city": "Paris",
+                "postalCode": "75007",
+                "country": "France"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 2,
+                "bedCount": 1,
+                "bath": 1,
+                "squareFootage": 450
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Rent"
+    },
+    {
+        "id": 5,
+        "hotelName": "Covent Garden Luxury Suites",
+        "hotelImages": [
+            "https://i.ibb.co/g6Bvxzb/LD5.png"
+        ],
+        "price": 9800,
+        "addresses": [
+            {
+                "addressLine1": "41 Earlham St",
+                "city": "London",
+                "postalCode": "WC2H 9LX",
+                "country": "UK"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 1,
+                "bedCount": 2,
+                "bath": 1,
+                "squareFootage": 550
+            }
+        ],
+        "isPopular": false,
+        "forRentOrSale": "For Rent"
+    },
+    {
+        "id": 6,
+        "hotelName": "Gateway of India Resort",
+        "hotelImages": [
+            "https://i.ibb.co/865Yx1k/PSG.webp",
+            "https://i.ibb.co/djn2Ddf/360-F-29133877-bf-A2n7c-WV53fto2-Bomy-Z6py-Ruj-JTBwjd.jpg",
+            "https://i.ibb.co/zGTvZ46/Park-Hotel-Group-Explore-Grand-Park-City-Hall-Facade.jpg",
+            "https://i.ibb.co/gz0L4ty/istockphoto-472899538-612x612.jpg",
+            "https://i.ibb.co/0270d6b/cq5dam-web-756-756.jpg"
+        ],
+        "price": 8200,
+        "addresses": [
+            {
+                "addressLine1": "Apollo Bunder",
+                "city": "Mumbai",
+                "postalCode": "400001",
+                "country": "India"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 3,
+                "bedCount": 1,
+                "bath": 1,
+                "squareFootage": 480
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Rent"
+    },
+    {
+        "id": 7,
+        "hotelName": "Statue of Liberty View Inn",
+        "hotelImages": [
+            "https://i.ibb.co/cQzKksd/voco-new-york-6671510166-16x9.png",
+            "https://i.ibb.co/xLm82YG/NY2.jpg",
+            "https://i.ibb.co/7GBcvkG/NY3.png",
+            "https://i.ibb.co/xLm82YG/NY2.jpg"
+        ],
+        "price": 9100,
+        "addresses": [
+            {
+                "addressLine1": "123 Battery Park",
+                "city": "New York",
+                "postalCode": "10004",
+                "country": "USA"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 2,
+                "bedCount": 2,
+                "bath": 1,
+                "squareFootage": 520
+            }
+        ],
+        "isPopular": false,
+        "forRentOrSale": "For Sale"
+    },
+    {
+        "id": 8,
+        "hotelName": "Westminster Palace Hotel",
+        "hotelImages": [
+            "https://i.ibb.co/g6Bvxzb/LD5.png"
+        ],
+        "price": 8700,
+        "addresses": [
+            {
+                "addressLine1": "Great George St",
+                "city": "London",
+                "postalCode": "SW1P 3JX",
+                "country": "UK"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 2,
+                "bedCount": 1,
+                "bath": 1,
+                "squareFootage": 490
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For sale"
+    },
+    {
+        "id": 9,
+        "hotelName": "Louvre Palace Suites",
+        "hotelImages": [
+            "https://i.ibb.co/gz0L4ty/istockphoto-472899538-612x612.jpg",
+            "https://i.ibb.co/865Yx1k/PSG.webp",
+            "https://i.ibb.co/djn2Ddf/360-F-29133877-bf-A2n7c-WV53fto2-Bomy-Z6py-Ruj-JTBwjd.jpg",
+            "https://i.ibb.co/zGTvZ46/Park-Hotel-Group-Explore-Grand-Park-City-Hall-Facade.jpg",
+            "https://i.ibb.co/0270d6b/cq5dam-web-756-756.jpg"
+        ],
+        "price": 9200,
+        "addresses": [
+            {
+                "addressLine1": "Rue de Rivoli",
+                "city": "Paris",
+                "postalCode": "75001",
+                "country": "France"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 2,
+                "bedCount": 1,
+                "bath": 1,
+                "squareFootage": 480
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Rent"
+    },
+    {
+        "id": 10,
+        "hotelName": "The Shard View Hotel",
+        "hotelImages": [
+            "https://i.ibb.co/LvQ8Pjc/LD.jpg",
+            "https://i.ibb.co/vcD7dB9/LD.png",
+            "https://i.ibb.co/ssH0BHN/LD2.jpg",
+            "https://i.ibb.co/JQVW01n/LD3.jpg",
+            "https://i.ibb.co/x8RnKRc/LD4.jpg"
+        ],
+        "price": 9800,
+        "addresses": [
+            {
+                "addressLine1": "32 London Bridge St",
+                "city": "London",
+                "postalCode": "SE1 9SG",
+                "country": "UK"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 1,
+                "bedCount": 2,
+                "bath": 1,
+                "squareFootage": 550
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Rent"
+    },
+    {
+        "id": 11,
+        "hotelName": "Marine Drive Luxury Hotel",
+        "hotelImages": [
+            "https://i.ibb.co/7GBcvkG/NY3.png",
+            "https://i.ibb.co/ssH0BHN/LD2.jpg"
+        ],
+        "price": 8000,
+        "addresses": [
+            {
+                "addressLine1": "Queens Necklace",
+                "city": "Mumbai",
+                "postalCode": "400020",
+                "country": "India"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 3,
+                "bedCount": 1,
+                "bath": 1,
+                "squareFootage": 500
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Rent"
+    },
+    {
+        "id": 12,
+        "hotelName": "Central Park View Hotel",
+        "hotelImages": [
+            "https://i.ibb.co/7GBcvkG/NY3.png"
+        ],
+        "price": 10500,
+        "addresses": [
+            {
+                "addressLine1": "123 Central Park West",
+                "city": "New York",
+                "postalCode": "10024",
+                "country": "USA"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 2,
+                "bedCount": 2,
+                "bath": 1,
+                "squareFootage": 530
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Rent"
+    },
+    {
+        "id": 13,
+        "hotelName": "Champs-Élysées Deluxe Suites",
+        "hotelImages": [
+         
+            "https://i.ibb.co/zGTvZ46/Park-Hotel-Group-Explore-Grand-Park-City-Hall-Facade.jpg"
+        ],
+        "price": 9800,
+        "addresses": [
+            {
+                "addressLine1": "Avenue des Champs-Élysées",
+                "city": "Paris",
+                "postalCode": "75008",
+                "country": "France"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 2,
+                "bedCount": 1,
+                "bath": 1,
+                "squareFootage": 470
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Rent"
+    },
+    {
+        "id": 14,
+        "hotelName": "Thames Riverside Hotel",
+        "hotelImages": [
+            "https://i.ibb.co/vcD7dB9/LD.png",
+            "https://i.ibb.co/LvQ8Pjc/LD.jpg",
+            "https://i.ibb.co/ssH0BHN/LD2.jpg",
+            "https://i.ibb.co/x8RnKRc/LD4.jpg",
+            "https://i.ibb.co/JQVW01n/LD3.jpg"
+        ],
+        "price": 9400,
+        "addresses": [
+            {
+                "addressLine1": "20 Victoria Embankment",
+                "city": "London",
+                "postalCode": "EC4Y 0DH",
+                "country": "UK"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 1,
+                "bedCount": 2,
+                "bath": 1,
+                "squareFootage": 520
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Rent"
+    },
+    {
+        "id": 15,
+        "hotelName": "Bandra Beach Resort",
+        "hotelImages": [
+            "https://i.ibb.co/djn2Ddf/360-F-29133877-bf-A2n7c-WV53fto2-Bomy-Z6py-Ruj-JTBwjd.jpg"
+        ],
+        "price": 7800,
+        "addresses": [
+            {
+                "addressLine1": "Bandra Reclamation",
+                "city": "Mumbai",
+                "postalCode": "400050",
+                "country": "India"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 4,
+                "bedCount": 1,
+                "bath": 1,
+                "squareFootage": 490
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Rent"
+    },
+    {
+        "id": 16,
+        "hotelName": "Times Square View Inn",
+        "hotelImages": [
+            "https://i.ibb.co/cQzKksd/voco-new-york-6671510166-16x9.png",
+            "https://i.ibb.co/xLm82YG/NY2.jpg",
+            "https://i.ibb.co/7GBcvkG/NY3.png",
+            "https://i.ibb.co/xLm82YG/NY2.jpg"
+        ],
+        "price": 10200,
+        "addresses": [
+            {
+                "addressLine1": "1567 Broadway",
+                "city": "New York",
+                "postalCode": "10036",
+                "country": "USA"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 2,
+                "bedCount": 2,
+                "bath": 1,
+                "squareFootage": 550
+            }
+        ],
+        "isPopular": false,
+        "forRentOrSale": "For Rent"
+    },
+    {
+        "id": 17,
+        "hotelName": "Montmartre Hillside Hotel",
+        "hotelImages": [
+            "https://i.ibb.co/865Yx1k/PSG.webp",
+            "https://i.ibb.co/djn2Ddf/360-F-29133877-bf-A2n7c-WV53fto2-Bomy-Z6py-Ruj-JTBwjd.jpg",
+            "https://i.ibb.co/zGTvZ46/Park-Hotel-Group-Explore-Grand-Park-City-Hall-Facade.jpg",
+            "https://i.ibb.co/gz0L4ty/istockphoto-472899538-612x612.jpg",
+            "https://i.ibb.co/0270d6b/cq5dam-web-756-756.jpg"
+        ],
+        "price": 8900,
+        "addresses": [
+            {
+                "addressLine1": "18 Rue de Steinkerque",
+                "city": "Paris",
+                "postalCode": "75018",
+                "country": "France"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 1,
+                "bedCount": 2,
+                "bath": 1,
+                "squareFootage": 480
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Rent"
+    },
+    {
+        "id": 18,
+        "hotelName": "West End Broadway Hotel",
+        "hotelImages": [
+            "https://i.ibb.co/cQzKksd/voco-new-york-6671510166-16x9.png",
+            "https://i.ibb.co/xLm82YG/NY2.jpg",
+            "https://i.ibb.co/7GBcvkG/NY3.png",
+            "https://i.ibb.co/xLm82YG/NY2.jpg"
+        ],
+        "price": 9700,
+        "addresses": [
+            {
+                "addressLine1": "1707 Broadway",
+                "city": "New York",
+                "postalCode": "10019",
+                "country": "USA"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 2,
+                "bedCount": 2,
+                "bath": 1,
+                "squareFootage": 520
+            }
+        ],
+        "isPopular": false,
+        "forRentOrSale": "For Sale"
+    },
+    {
+        "id": 19,
+        "hotelName": "Regent's Park View Hotel",
+        "hotelImages": [
+
+            "https://i.ibb.co/vcD7dB9/LD.png",
+            "https://i.ibb.co/ssH0BHN/LD2.jpg",
+            "https://i.ibb.co/JQVW01n/LD3.jpg"
+
+        ],
+        "price": 9400,
+        "addresses": [
+            {
+                "addressLine1": "41 Devonshire Pl",
+                "city": "London",
+                "postalCode": "W1G 6JY",
+                "country": "UK"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 1,
+                "bedCount": 2,
+                "bath": 1,
+                "squareFootage": 550
+            }
+        ],
+        "isPopular": false,
+        "forRentOrSale": "For Sale"
+    },
+    {
+        "id": 20,
+        "hotelName": "Marine Lines Resort",
+        "hotelImages": [
+            "https://i.ibb.co/djn2Ddf/360-F-29133877-bf-A2n7c-WV53fto2-Bomy-Z6py-Ruj-JTBwjd.jpg"
+     
+        ],
+        "price": 8200,
+        "addresses": [
+            {
+                "addressLine1": "123 Churchgate St",
+                "city": "Mumbai",
+                "postalCode": "400020",
+                "country": "India"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 3,
+                "bedCount": 1,
+                "bath": 1,
+                "squareFootage": 500
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Rent"
+    },
+    {
+        "id": 21,
+        "hotelName": "Seine Riverfront Suites",
+        "hotelImages": [
+            "https://i.ibb.co/zGTvZ46/Park-Hotel-Group-Explore-Grand-Park-City-Hall-Facade.jpg",
+            "https://i.ibb.co/gz0L4ty/istockphoto-472899538-612x612.jpg",
+            "https://i.ibb.co/0270d6b/cq5dam-web-756-756.jpg"
+
+        ],
+        "price": 9700,
+        "addresses": [
+            {
+                "addressLine1": "Quai des Orfèvres",
+                "city": "Paris",
+                "postalCode": "75001",
+                "country": "France"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 2,
+                "bedCount": 1,
+                "bath": 1,
+                "squareFootage": 470
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Rent"
+    },
+    {
+        "id": 22,
+        "hotelName": "Westerdam Palace Hotel",
+        "hotelImages": [
+            "https://i.ibb.co/g6Bvxzb/LD5.png"
+        ],
+        "price": 8700,
+        "addresses": [
+            {
+                "addressLine1": "Great George St",
+                "city": "London",
+                "postalCode": "5236",
+                "country": "UK"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 2,
+                "bedCount": 1,
+                "bath": 1,
+                "squareFootage": 490
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Rent"
+    },
+
+    {
+        "id": 23,
+        "hotelName": "Westminster Palace Hotel",
+        "hotelImages": [
+            "https://i.ibb.co/g6Bvxzb/LD5.png"
+        ],
+        "price": 8700,
+        "addresses": [
+            {
+                "addressLine1": "149 street",
+                "city": "New York",
+                "postalCode": "5974",
+                "country": "US"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 2,
+                "bedCount": 1,
+                "bath": 1,
+                "squareFootage": 590
+            }
+        ],
+        "isPopular": false,
+        "forRentOrSale": "For Sale"
+    },
+    {
+        "id": 23,
+        "hotelName": "Ovani Opio Palace Hotel",
+        "hotelImages": [
+            "https://i.ibb.co/g6Bvxzb/LD5.png"
+        ],
+        "price": 6700,
+        "addresses": [
+            {
+                "addressLine1": "417 jonea lt",
+                "city": "Paris",
+                "postalCode": "7582",
+                "country": "France"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 2,
+                "bedCount": 1,
+                "bath": 1,
+                "squareFootage": 490
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Rent"
+    },
+    {
+        "id": 24,
+        "hotelName": "Luxury Rivoli Hotel",
+        "hotelImages": [
+            "https://i.ibb.co/865Yx1k/PSG.webp",
+            "https://i.ibb.co/djn2Ddf/360-F-29133877-bf-A2n7c-WV53fto2-Bomy-Z6py-Ruj-JTBwjd.jpg",
+            "https://i.ibb.co/zGTvZ46/Park-Hotel-Group-Explore-Grand-Park-City-Hall-Facade.jpg"
+        ],
+        "price": 9200,
+        "addresses": [
+            {
+                "addressLine1": "45 Rue de Rivoli",
+                "city": "Paris",
+                "postalCode": "75001",
+                "country": "France"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 2,
+                "bedCount": 2,
+                "bath": 1,
+                "squareFootage": 600
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Rent"
+    },
+    {
+        "id": 25,
+        "hotelName": "Elysian Palace Hotel",
+        "hotelImages": [
+            "https://i.ibb.co/gz0L4ty/istockphoto-472899538-612x612.jpg",
+            "https://i.ibb.co/865Yx1k/PSG.webp"
+        ],
+        "price": 9800,
+        "addresses": [
+            {
+                "addressLine1": "10 Avenue des Champs-Élysées",
+                "city": "Paris",
+                "postalCode": "75008",
+                "country": "France"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 3,
+                "bedCount": 2,
+                "bath": 2,
+                "squareFootage": 700
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Rent"
+    },
+    {
+        "id": 26,
+        "hotelName": "Central Park Grand Hotel",
+        "hotelImages": [
+            "https://i.ibb.co/865Yx1k/PSG.webp",
+            "https://i.ibb.co/djn2Ddf/360-F-29133877-bf-A2n7c-WV53fto2-Bomy-Z6py-Ruj-JTBwjd.jpg",
+            "https://i.ibb.co/zGTvZ46/Park-Hotel-Group-Explore-Grand-Park-City-Hall-Facade.jpg"
+        ],
+        "price": 11000,
+        "addresses": [
+            {
+                "addressLine1": "123 Central Park West",
+                "city": "New York",
+                "postalCode": "10024",
+                "country": "USA"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 3,
+                "bedCount": 2,
+                "bath": 2,
+                "squareFootage": 700
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Rent"
+    },
+    {
+        "id": 27,
+        "hotelName": "Times Square Luxury Suites",
+        "hotelImages": [
+            "https://i.ibb.co/865Yx1k/PSG.webp",
+            "https://i.ibb.co/djn2Ddf/360-F-29133877-bf-A2n7c-WV53fto2-Bomy-Z6py-Ruj-JTBwjd.jpg"
+        ],
+        "price": 10500,
+        "addresses": [
+            {
+                "addressLine1": "1567 Broadway",
+                "city": "New York",
+                "postalCode": "10036",
+                "country": "USA"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 2,
+                "bedCount": 1,
+                "bath": 1,
+                "squareFootage": 600
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Rent"
+    },
+    {
+        "id": 28,
+        "hotelName": "Empire State View Inn",
+        "hotelImages": [
+            "https://i.ibb.co/zGTvZ46/Park-Hotel-Group-Explore-Grand-Park-City-Hall-Facade.jpg",
+            "https://i.ibb.co/gz0L4ty/istockphoto-472899538-612x612.jpg"
+        ],
+        "price": 9800,
+        "addresses": [
+            {
+                "addressLine1": "20 W 34th St",
+                "city": "New York",
+                "postalCode": "10001",
+                "country": "USA"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 1,
+                "bedCount": 1,
+                "bath": 1,
+                "squareFootage": 550
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Rent"
+    },
+    {
+        "id": 29,
+        "hotelName": "Hudson Riverfront Hotel",
+        "hotelImages": [
+            "https://i.ibb.co/865Yx1k/PSG.webp",
+            "https://i.ibb.co/zGTvZ46/Park-Hotel-Group-Explore-Grand-Park-City-Hall-Facade.jpg"
+        ],
+        "price": 9400,
+        "addresses": [
+            {
+                "addressLine1": "50 W 44th St",
+                "city": "New York",
+                "postalCode": "10036",
+                "country": "USA"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 2,
+                "bedCount": 2,
+                "bath": 1,
+                "squareFootage": 580
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Rent"
+    },
+    {
+        "id": 30,
+        "hotelName": "Marine Drive Deluxe Hotel",
+        "hotelImages": [
+            "https://i.ibb.co/7GBcvkG/NY3.png",
+            "https://i.ibb.co/ssH0BHN/LD2.jpg"
+        ],
+        "price": 9200,
+        "addresses": [
+            {
+                "addressLine1": "789 Marine Drive",
+                "city": "Mumbai",
+                "postalCode": "400020",
+                "country": "India"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 3,
+                "bedCount": 1,
+                "bath": 1,
+                "squareFootage": 550
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Rent"
+    },
+    {
+        "id": 31,
+        "hotelName": "Gateway of India View Hotel",
+        "hotelImages": [
+            "https://i.ibb.co/865Yx1k/PSG.webp",
+            "https://i.ibb.co/djn2Ddf/360-F-29133877-bf-A2n7c-WV53fto2-Bomy-Z6py-Ruj-JTBwjd.jpg"
+        ],
+        "price": 8500,
+        "addresses": [
+            {
+                "addressLine1": "Apollo Bunder",
+                "city": "Mumbai",
+                "postalCode": "400001",
+                "country": "India"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 2,
+                "bedCount": 1,
+                "bath": 1,
+                "squareFootage": 520
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Sale"
+    },
+    {
+        "id": 32,
+        "hotelName": "Juhu Beachfront Resort",
+        "hotelImages": [
+            "https://i.ibb.co/0270d6b/cq5dam-web-756-756.jpg",
+            "https://i.ibb.co/gz0L4ty/istockphoto-472899538-612x612.jpg"
+        ],
+        "price": 8900,
+        "addresses": [
+            {
+                "addressLine1": "Juhu Tara Road",
+                "city": "Mumbai",
+                "postalCode": "400049",
+                "country": "India"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 2,
+                "bedCount": 2,
+                "bath": 1,
+                "squareFootage": 580
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Rent"
+    },
+    {
+        "id": 33,
+        "hotelName": "Bandra Beachfront Hotel",
+        "hotelImages": [
+            "https://i.ibb.co/zGTvZ46/Park-Hotel-Group-Explore-Grand-Park-City-Hall-Facade.jpg",
+            "https://i.ibb.co/gz0L4ty/istockphoto-472899538-612x612.jpg"
+        ],
+        "price": 9100,
+        "addresses": [
+            {
+                "addressLine1": "Bandra Reclamation",
+                "city": "Mumbai",
+                "postalCode": "400050",
+                "country": "India"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 3,
+                "bedCount": 2,
+                "bath": 1,
+                "squareFootage": 600
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Sale"
+    },
+    {
+        "id": 34,
+        "hotelName": "Westminster Bridge Luxury Hotel",
+        "hotelImages": [
+            "https://i.ibb.co/vcD7dB9/LD.png",
+            "https://i.ibb.co/ssH0BHN/LD2.jpg"
+        ],
+        "price": 9500,
+        "addresses": [
+            {
+                "addressLine1": "200 Westminster Bridge Rd",
+                "city": "London",
+                "postalCode": "SE1 7UT",
+                "country": "UK"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 2,
+                "bedCount": 2,
+                "bath": 1,
+                "squareFootage": 550
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Rent"
+    },
+    {
+        "id": 35,
+        "hotelName": "Covent Garden Heritage Inn",
+        "hotelImages": [
+            "https://i.ibb.co/g6Bvxzb/LD5.png"
+        ],
+        "price": 9800,
+        "addresses": [
+            {
+                "addressLine1": "25 Bedford St",
+                "city": "London",
+                "postalCode": "WC2E 9ES",
+                "country": "UK"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 1,
+                "bedCount": 1,
+                "bath": 1,
+                "squareFootage": 500
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Sale"
+    },
+    {
+        "id": 36,
+        "hotelName": "Covent Garden Heritage Inn",
+        "hotelImages": [
+            "https://i.ibb.co/g6Bvxzb/LD5.png"
+        ],
+        "price": 1300,
+        "addresses": [
+            {
+                "addressLine1": "25 Bedford Lambord St",
+                "city": "New York",
+                "postalCode": "WC2E 9ES",
+                "country": "US"
+            }
+        ],
+        "roomTypes": [
+            {
+                "numberOfRoom": 4,
+                "bedCount": 1,
+                "bath": 2,
+                "squareFootage": 900
+            }
+        ],
+        "isPopular": true,
+        "forRentOrSale": "For Sale"
+    }
+
+
+]
